@@ -1,0 +1,11 @@
+,support,itemsets,length
+49,0.4839948783610755,"frozenset({'CCOEY', 'NCBDY'})",2
+40,0.3700384122919334,"frozenset({'TTWO', 'EA'})",2
+19,0.3674775928297055,"frozenset({'MSFT', 'SONY'})",2
+35,0.36619718309859156,"frozenset({'ATVI', 'TTWO'})",2
+29,0.34699103713188223,"frozenset({'MSFT', 'TTWO'})",2
+34,0.3444302176696543,"frozenset({'ATVI', 'EA'})",2
+25,0.33290653008962867,"frozenset({'TCEHY', 'SONY'})",2
+32,0.33162612035851474,"frozenset({'TCEHY', 'MSFT'})",2
+11,0.33034571062740076,"frozenset({'NTDOY', 'MSFT'})",2
+27,0.3290653008962868,"frozenset({'ATVI', 'MSFT'})",2
